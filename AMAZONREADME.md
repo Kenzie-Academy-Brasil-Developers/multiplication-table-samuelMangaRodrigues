@@ -2,11 +2,11 @@
 
 Write an HTML page that uses Javascript to draw a 10x10 multiplication table. The key idea is to use two nested loops _(one loop inside another)_ for the rows and columns of the table.
 
-Pretend you are designing your page for elementary school teachers to use in a classroom. It should look roughly like this:
+Pretend you are designing your page for elementary school teachers to use in a classroom. It should look roughly like this: -->
 
 ![](https://i.snag.gy/xf0HnX.jpg)
 
-### Getting Started ###
+ ### Getting Started ### -->
 
 You can use the following HTML document as a starting point:
 
@@ -40,10 +40,10 @@ You can use the following HTML document as a starting point:
     	</script>
 	</body>
 </html>
-```
+-- ```
 
 ### Bonus ###
 
 For an additional challenge:
 *   Provide controls to allow generating tables of different sizes (e.g. 12x12, 16x16)
-*   Provide controls to change the colors or styles of the table on the fly.
+*   Provide controls to change the colors or styles of the table on the fly. 
